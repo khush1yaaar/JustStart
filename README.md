@@ -1,4 +1,4 @@
-# juststart
+# JustStart
 
 A new Flutter project.
 
